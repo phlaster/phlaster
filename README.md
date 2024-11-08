@@ -36,7 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" title="R" width="55" />
   </a>
   <a href="https://vscodium.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/VSCodium/icons/blob/b96d266673cd1d7a09d4ddd869c669fcb7a1e8ba/icons/linux/nobg/blue1/paulo22sb.png" alt="VSCodium" title="VSCodium" width="55"/>
+    <img src="https://github.com/user-attachments/assets/0ec1cc16-2d7a-492b-bf65-fcff557adfa0" alt="VSCodium" title="VSCodium" width="55"/>
   </a>
 </p>
 
