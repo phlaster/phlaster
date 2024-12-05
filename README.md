@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Alex
+  Greetings! My name is Alex.
   <a href="https://gitlab.com/phlaster" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="my GitLab" title="my GitLab" width="25" />
   </a>
@@ -40,6 +40,9 @@
   </a>
 </p>
 
-- I'm math/bioinformatics student in St.Petersburg
+- I'm math/bioinformatics student from St.Petersburg
 - Love biology, programming, math, FOSS
-- My ongoing projects are: [Biokeeper](https://github.com/phlaster/biokeeper), [Pannagram](https://github.com/iganna/pannagram)
+- Currently, I am involved in:
+  - [Pannagram](https://github.com/iganna/pannagram) - Pan-genome analysis and visualization tool
+  - [Biokeeper](https://github.com/phlaster/biokeeper) - Citizen science mobile app
+  - Writing a bachelor's thesis
