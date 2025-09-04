@@ -44,5 +44,5 @@
 - Love biology, programming, math, FOSS
 - Currently, I am involved in:
   - [Pannagram](https://github.com/iganna/pannagram) - Pan-genome analysis and visualization tool
+  - [SeqFold.jl](https://github.com/phlaster/SeqFold.jl) - Faster reimplementation of [seqfold](https://github.com/Lattice-Automation/seqfold/) python library in Julia
   - [Biokeeper](https://github.com/phlaster/biokeeper) - Citizen science mobile app
-  - Writing a bachelor's thesis
