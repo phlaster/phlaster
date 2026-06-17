@@ -43,7 +43,7 @@
 - I'm math/bioinformatics student from St.Petersburg
 - Love biology, programming, math, FOSS
 - Currently, I am involved in:
-  - [DEPPA.jl](https://github.com/phlaster/DEPPA.jl) - Degenerate PCR primer construction tool
+  - [DePPA.jl](https://github.com/phlaster/DePPA.jl) - Degenerate PCR primer construction tool
   - [Pannagram](https://github.com/iganna/pannagram) - Pan-genome analysis and visualization tool
   - [SeqFold.jl](https://github.com/phlaster/SeqFold.jl) - Faster reimplementation of [seqfold](https://github.com/Lattice-Automation/seqfold/) python library in Julia
   - [Biokeeper](https://github.com/phlaster/biokeeper) - Citizen science mobile app
