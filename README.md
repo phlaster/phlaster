@@ -76,6 +76,6 @@ programme in evolutionary genomics and metagenomics.
 - **[Pannagram](https://github.com/iganna/pannagram)** — pangenome alignment and structural variant analysis · `R` `Bash`
 - **[hextiles](https://github.com/phlaster/hextiles)** — interactive hexagonal-tiling playground with procedural generation · `JS` `WebGL`
 - **[speedreader](https://github.com/phlaster/speedreader)** — Simple html-based offline quick reading tool · `JS`
-- **[CertForge](https://github.com/phlaster/CertForge)** — Art Authenticity Certificates web generator
-- **[GRBZones](https://github.com/phlaster/RGBZones)** — CPU temperature-based RGB control panel
-- **[geovue](https://github.com/phlaster/geovue)** — Geospatial data visualizing tool
+- **[CertForge](https://github.com/phlaster/CertForge)** — Art Authenticity Certificates web generator · `JS`
+- **[GRBZones](https://github.com/phlaster/RGBZones)** — CPU temperature-based RGB control panel · `Python`
+- **[geovue](https://github.com/phlaster/geovue)** — Geospatial data visualizing tool · `JS`
